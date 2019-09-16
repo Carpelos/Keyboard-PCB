@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Keyboard PCB-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -414,4 +415,47 @@ Wire Wire Line
 Connection ~ 5250 1050
 Wire Wire Line
 	5250 1050 4900 1050
+$Comp
+L Connector:USB_B_Mini J?
+U 1 1 5D835ABB
+P 3500 1200
+F 0 "J?" H 3557 1667 50  0000 C CNN
+F 1 "USB_B_Mini" H 3557 1576 50  0000 C CNN
+F 2 "" H 3650 1150 50  0001 C CNN
+F 3 "~" H 3650 1150 50  0001 C CNN
+	1    3500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5D837687
+P 3900 900
+F 0 "#PWR?" H 3900 750 50  0001 C CNN
+F 1 "+5V" H 3915 1073 50  0000 C CNN
+F 2 "" H 3900 900 50  0001 C CNN
+F 3 "" H 3900 900 50  0001 C CNN
+	1    3900 900 
+	1    0    0    -1  
+$EndComp
+Text GLabel 3800 1200 2    50   Input ~ 0
+D+
+Text GLabel 3800 1300 2    50   Input ~ 0
+D-
+Wire Wire Line
+	3800 1000 3900 1000
+Wire Wire Line
+	3900 1000 3900 900 
+$Comp
+L power:GND #PWR?
+U 1 1 5D83AD54
+P 3500 1800
+F 0 "#PWR?" H 3500 1550 50  0001 C CNN
+F 1 "GND" H 3505 1627 50  0000 C CNN
+F 2 "" H 3500 1800 50  0001 C CNN
+F 3 "" H 3500 1800 50  0001 C CNN
+	1    3500 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 1600 3500 1800
 $EndSCHEMATC
