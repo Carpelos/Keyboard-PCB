@@ -1371,7 +1371,7 @@ U 1 1 5D948507
 P 15850 8150
 F 0 "SW69" H 15750 8200 50  0000 L CNN
 F 1 "\\" H 15750 8100 79  0000 L CNN
-F 2 "acheron_MX:MX100" H 15850 8150 50  0001 C CNN
+F 2 "acheron_MX:MX150" H 15850 8150 50  0001 C CNN
 F 3 "" H 15850 8150 50  0001 C CNN
 	1    15850 8150
 	1    0    0    -1  
@@ -2409,7 +2409,7 @@ U 1 1 5D9E2F57
 P 14100 10300
 F 0 "SW63" H 14000 10350 50  0000 L CNN
 F 1 "/" H 14000 10250 79  0000 L CNN
-F 2 "acheron_MX:MX150" H 14100 10300 50  0001 C CNN
+F 2 "acheron_MX:MX100" H 14100 10300 50  0001 C CNN
 F 3 "" H 14100 10300 50  0001 C CNN
 	1    14100 10300
 	1    0    0    -1  
@@ -3378,4 +3378,35 @@ Wire Wire Line
 Connection ~ 4150 9200
 Wire Wire Line
 	4150 9200 4150 10300
+Wire Wire Line
+	12700 8150 12800 8150
+Connection ~ 12800 8150
+Text GLabel 9000 2800 2    50   Input ~ 0
+COL8
+Text GLabel 9000 3000 2    50   Input ~ 0
+COL7
+Text GLabel 9000 3100 2    50   Input ~ 0
+COL6
+Text GLabel 9000 1600 2    50   Input ~ 0
+COL5
+Text GLabel 9000 1700 2    50   Input ~ 0
+COL4
+Text GLabel 9000 1800 2    50   Input ~ 0
+COL3
+Text GLabel 9000 2100 2    50   Input ~ 0
+COL2
+Text GLabel 9000 2200 2    50   Input ~ 0
+COL1
+Text GLabel 9000 4100 2    50   Input ~ 0
+COL9
+Text GLabel 9000 4000 2    50   Input ~ 0
+COL10
+Text GLabel 9000 3900 2    50   Input ~ 0
+COL11
+Text GLabel 9000 3800 2    50   Input ~ 0
+COL12
+Text GLabel 9000 3700 2    50   Input ~ 0
+COL13
+Text GLabel 9000 3600 2    50   Input ~ 0
+COL14
 $EndSCHEMATC

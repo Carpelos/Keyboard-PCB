@@ -3378,4 +3378,35 @@ Wire Wire Line
 Connection ~ 4150 9200
 Wire Wire Line
 	4150 9200 4150 10300
+Wire Wire Line
+	12700 8150 12800 8150
+Connection ~ 12800 8150
+Text GLabel 9000 2200 2    50   Input ~ 0
+COL8
+Text GLabel 9000 2100 2    50   Input ~ 0
+COL7
+Text GLabel 9000 1800 2    50   Input ~ 0
+COL6
+Text GLabel 9000 1700 2    50   Input ~ 0
+COL5
+Text GLabel 9000 1600 2    50   Input ~ 0
+COL4
+Text GLabel 9000 3100 2    50   Input ~ 0
+COL3
+Text GLabel 9000 3000 2    50   Input ~ 0
+COL2
+Text GLabel 9000 2800 2    50   Input ~ 0
+COL1
+Text GLabel 9000 4100 2    50   Input ~ 0
+COL9
+Text GLabel 9000 4000 2    50   Input ~ 0
+COL10
+Text GLabel 9000 3900 2    50   Input ~ 0
+COL11
+Text GLabel 9000 3800 2    50   Input ~ 0
+COL12
+Text GLabel 9000 3700 2    50   Input ~ 0
+COL13
+Text GLabel 9000 3600 2    50   Input ~ 0
+COL14
 $EndSCHEMATC
