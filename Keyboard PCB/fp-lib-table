@@ -12,4 +12,6 @@
   (lib (name acheron_MX_SolderMask)(type KiCad)(uri C:/Users/Carlos/Documents/GitHub/Keyboard-PCB/AcheronLibrary/footprints/acheron_MX_SolderMask.pretty)(options "")(descr ""))
   (lib (name acheron_MXA)(type KiCad)(uri C:/Users/Carlos/Documents/GitHub/Keyboard-PCB/AcheronLibrary/footprints/acheron_MXA.pretty)(options "")(descr ""))
   (lib (name acheron_SwitchSlots)(type KiCad)(uri C:/Users/Carlos/Documents/GitHub/Keyboard-PCB/AcheronLibrary/footprints/acheron_SwitchSlots.pretty)(options "")(descr ""))
+  (lib (name AcheronLibrary)(type KiCad)(uri C:/Users/Carlos/Documents/GitHub/Keyboard-PCB/AcheronLibrary)(options "")(descr ""))
+  (lib (name "Keyboard PCB")(type KiCad)(uri "C:/Users/Carlos/Documents/GitHub/Keyboard-PCB/Keyboard PCB")(options "")(descr ""))
 )
