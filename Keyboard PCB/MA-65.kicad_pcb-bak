@@ -329,7 +329,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862D0A)
-    (at 288.13125 -111.91875)
+    (at 307.18125 -111.91875)
     (path /5D9484FB)
     (fp_text reference SW68 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -362,7 +362,7 @@
   )
 
   (module acheron_MX:MX200 (layer F.Cu) (tedit 5D509B86) (tstamp 5D869772)
-    (at 278.60625 -111.91875 180)
+    (at 297.65625 -111.91875 180)
     (path /5DDDF0CD)
     (fp_text reference SW7 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -788,7 +788,7 @@
   )
 
   (module acheron_MX:MX150 (layer F.Cu) (tedit 5D509B7A) (tstamp 5D862D22)
-    (at 60.837501 129.375001)
+    (at 302.41875 -92.86875)
     (path /5D948507)
     (fp_text reference SW69 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -887,7 +887,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862CB2)
-    (at 110.655001 129.375001)
+    (at 278.60625 -92.86875)
     (path /5D948501)
     (fp_text reference SW65 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -920,7 +920,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862C9A)
-    (at 250.03125 -111.91875)
+    (at 269.08125 -111.91875)
     (path /5D9484EF)
     (fp_text reference SW64 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -986,7 +986,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862C6A)
-    (at 230.98125 -111.91875)
+    (at 250.03125 -111.91875)
     (path /5D9E2F3F)
     (fp_text reference SW62 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1019,7 +1019,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862C52)
-    (at 130.805001 129.375001)
+    (at 259.55625 -92.86875)
     (path /5D9484C5)
     (fp_text reference SW61 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1151,7 +1151,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862BF2)
-    (at 56.075001 189.825001)
+    (at 240.50625 -92.86875)
     (path /5D9484BF)
     (fp_text reference SW57 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1184,7 +1184,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862BDA)
-    (at 211.93125 -111.91875)
+    (at 230.98125 -111.91875)
     (path /5D9484AD)
     (fp_text reference SW56 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1349,7 +1349,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862B62)
-    (at 160.475001 107.575001)
+    (at 221.45625 -92.86875)
     (path /5D948481)
     (fp_text reference SW50 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1382,7 +1382,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862B4A)
-    (at 192.88125 -111.91875)
+    (at 211.93125 -111.91875)
     (path /5D948475)
     (fp_text reference SW49 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1481,7 +1481,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862B02)
-    (at 180.625001 107.575001)
+    (at 202.40625 -92.86875)
     (path /5D94847B)
     (fp_text reference SW46 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1514,7 +1514,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862AEA)
-    (at 173.83125 -111.91875)
+    (at 192.88125 -111.91875)
     (path /5D948469)
     (fp_text reference SW45 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1613,7 +1613,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862AA2)
-    (at 96.375001 189.825001)
+    (at 183.35625 -92.86875)
     (path /5D901CC0)
     (fp_text reference SW42 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1646,7 +1646,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862A8A)
-    (at 154.78125 -111.91875)
+    (at 173.83125 -111.91875)
     (path /5D901CB4)
     (fp_text reference SW41 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1761,7 +1761,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862A32)
-    (at 222.035001 166.125001)
+    (at 169.06875 -73.81875)
     (path /5D99D140)
     (fp_text reference SW38 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1827,7 +1827,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862A02)
-    (at 135.73125 -111.91875)
+    (at 154.78125 -111.91875)
     (path /5D901CA8)
     (fp_text reference SW36 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1893,7 +1893,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D8629D2)
-    (at 265.255001 65.375001)
+    (at 150.01875 -73.81875)
     (path /5D99D134)
     (fp_text reference SW34 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -1959,7 +1959,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D8629A2)
-    (at 116.68125 -111.91875)
+    (at 135.73125 -111.91875)
     (path /5D8E3CC1)
     (fp_text reference SW32 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2025,7 +2025,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862972)
-    (at 260.495001 85.525001)
+    (at 130.96875 -73.81875)
     (path /5D99D0FE)
     (fp_text reference SW30 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2091,7 +2091,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862942)
-    (at 97.63125 -111.91875)
+    (at 116.68125 -111.91875)
     (path /5D8E3CB5)
     (fp_text reference SW28 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2157,7 +2157,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862912)
-    (at 211.405001 145.975001)
+    (at 111.91875 -73.81875)
     (path /5D99D0F2)
     (fp_text reference SW26 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2223,7 +2223,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D8628E2)
-    (at 254.265001 105.675001)
+    (at 97.63125 -111.91875)
     (path /5D8DE35C)
     (fp_text reference SW24 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2388,7 +2388,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D86286A)
-    (at 161.585001 188.175001)
+    (at 92.86875 -73.81875)
     (path /5D99D0BC)
     (fp_text reference SW19 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2421,7 +2421,7 @@
   )
 
   (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D862852)
-    (at 181.735001 168.025001)
+    (at 73.81875 -73.81875)
     (path /5D99D0B0)
     (fp_text reference SW18 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
@@ -2804,8 +2804,8 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D86273A)
-    (at 269.08125 -111.91875)
+  (module acheron_MX:MX100 (layer F.Cu) (tedit 5D509B6B) (tstamp 5D86A862)
+    (at 288.13125 -111.91875)
     (path /5DBDC6F1)
     (fp_text reference SW2 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15) italic))
